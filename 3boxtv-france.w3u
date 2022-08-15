@@ -1,0 +1,22 @@
+{
+ "name": "3BoxTv 🇫🇷🇨🇭🇧🇪 ❖photocall.tv",
+ "author": "French/Francia/France TV",
+ "info": "Pour Wiseplay ATV version 7.5.7 / Dimplay",
+ "url": "https://rebrand.ly/f/3/u",
+ "image": "https://i.imgur.com/YAaMwxN.png",
+ "groups": 
+ [
+  {
+   "name": "3BoxTv",
+   "url": "https://rebrand.ly/embedphp?q=aHR0cHM6Ly9yZWJyYW5kLmx5L3cvMy91",
+   "image": "https://i.ibb.co/1X5Rjv8/frtv.png",
+   "import": "false"
+  },
+  {
+   "name": "❖photocall.tv",
+   "url": "https://rebrand.ly/embedphp?q=aHR0cHM6Ly9yZWJyYW5kLmx5L3AvMy91",
+   "image": "https://tecnoguias.com/wp-content/uploads/2021/10/photocall-tv.jpg",
+   "import": "false"
+  }
+ ]
+}
